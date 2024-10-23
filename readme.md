@@ -42,18 +42,18 @@
 No external dependencies are required. Just clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
-git clone <repository_url>
+git clone <https://github.com/Akki-soni/Age-Calculator-Web.git>
 cd age-calculator
 open index.html
 ```
 
 ## 🌟 Screenshots
 
-![Weather App Screenshot]()
+![Age Calculator App Screenshot](/Age%20Calculator%20Screenshot.png)
 
 ## 🔗 Live Demo
 
-[View Live Demo]()
+[View Live Demo](https://age-calculator-web-indol.vercel.app/)
 
 ## 🤝 Contributing
 
@@ -75,7 +75,7 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akki_214g/)
 
 <a href="">
-  <img src="data/logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
+  <img src="logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
 </a>
 
 </div>
